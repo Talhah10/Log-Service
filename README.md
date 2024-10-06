@@ -1,8 +1,10 @@
-Log Service Project
+Log Service Project   
 ---
 
-How to Launch;
+                     (server photos attached above)
 
+How to Launch;
+                                       
 Prerequisites
 ----
 AWS Account: Make sure you have an AWS account.
