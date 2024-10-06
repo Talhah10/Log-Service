@@ -1,7 +1,6 @@
 Log Service Project   
 ---
-
-                     (server photos attached above)
+(server photos attached above)
 
 How to Launch;
                                        
