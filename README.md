@@ -22,7 +22,7 @@ Clone the Repository:
 
 git clone https://github.com/Talhah10/Log-Service.git
 
-'cd log-service'
+                    'cd log-service'
 
 
 Configure AWS CLI: 
@@ -33,14 +33,14 @@ Run the following command and enter your AWS Access Key, Secret Access Key, and 
 
 Deploy the Service: Use the SAM CLI to deploy your service:
 ---
-'sam deploy --guided'
+                'sam deploy --guided'
 
 Follow the prompts to set up your stack name and configurations.
 
 
 To run the API locally, use:
 --
-'sam local start-api'
+                 'sam local start-api'
 
 You can now test your API endpoints using a tool like Postman or curl.
 
@@ -54,6 +54,6 @@ Cleaning Up
 
 To delete the deployed resources:
 
-'aws cloudformation delete-stack' --stack-name my-log-service-stack
+                 'aws cloudformation delete-stack' --stack-name my-log-service-stack
 
 
