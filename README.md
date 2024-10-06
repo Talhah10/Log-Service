@@ -1,4 +1,5 @@
 Log Service Project
+---
 
 How to Launch;
 
@@ -17,7 +18,7 @@ Setup
 ---
 Clone the Repository:
 
-git clone 
+git clone https://github.com/Talhah10/Log-Service.git
 
 cd log-service
 
